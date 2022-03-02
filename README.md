@@ -1,4 +1,5 @@
  ## Olá! Eu sou o Rodrigo Pereira
+ Atualmente estou no 4° Semestre da faculdade de analise e desenvolvimento de sistemas e estou atrás de uma oportunidade para ingressar no mercado de desenvolvimento, aki estão algumas atividades que integro no meu github 😊
 <div>
   <a href="https://github.com/rodrigo1215">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=rodrigo1215&hide=contribs,prs&show_icons=true&theme=dark&">
